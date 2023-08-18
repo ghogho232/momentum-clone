@@ -12,3 +12,37 @@ img {
     z-index: -1;
     opacity:80%;
     }
+#clock{
+    text-align: center;
+}
+#greeting{
+    text-align: center;
+}
+#todo-form{
+    text-align: center;
+}
+#login-form{
+    text-align: center;
+    margin: 40px;
+
+}
+#login-form input{
+    height:30px;
+}
+#textbox{
+    width:300px;
+}
+#todo-form input{
+    width:600px;
+    height:30px;
+    font-size:20px;
+}
+#quote{
+    text-align: center;
+    font-weight: bold;
+    font-size:20px;
+}
+ul{
+    text-align: center;
+    list-style:none;
+}
